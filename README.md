@@ -1,6 +1,6 @@
 This repository contains MATLABS scripts relating to computational linear algebra. I have listed all the scripts and what they do below.
 
-# Gauss-Seidel.m
+## Gauss-Seidel.m
 This script computes the solution to $Ax = b$ using Gauss-Seidel numerical method. It uses $tol$ as the tolerance/accuracy level.
 
 # GaussElim.m
