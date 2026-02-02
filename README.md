@@ -3,17 +3,17 @@ This repository contains MATLABS scripts relating to computational linear algebr
 ### Gauss-Seidel.m
 This script computes the solution to $Ax = b$ using Gauss-Seidel numerical method. It uses $tol$ as the tolerance/accuracy level.
 
-# GaussElim.m
+### GaussElim.m
 This script computes the solution to $Ax = b$ using classic Gaussian Elimination. 
 
-# Jacobi.m
+### Jacobi.m
 This script computes the solution to $Ax = b$ using the Jacobi iterative method.
 
-# LUD.m
+### LUD.m
 This script computes the LU factorization of $A$ in order to more efficiently solve $AX = b$.
 
-# houseQR.m
+### houseQR.m
 This script computes the QR factorization of $A$ using Householder transformations.
 
-# powMethod.m
+### powMethod.m
 This script computes the dominant eigenvalue of $A$ using the power method.
