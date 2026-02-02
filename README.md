@@ -10,7 +10,7 @@ This script computes the solution to $Ax = b$ using classic Gaussian Elimination
 This script computes the solution to $Ax = b$ using the Jacobi iterative method.
 
 ### LUD.m
-This script computes the LU factorization of $A$ in order to more efficiently solve $AX = b$.
+This script computes the LU factorization of $A$ in order to more efficiently solve $Ax = b$.
 
 ### houseQR.m
 This script computes the QR factorization of $A$ using Householder transformations.
